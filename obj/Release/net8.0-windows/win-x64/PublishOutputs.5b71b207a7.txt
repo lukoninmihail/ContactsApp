@@ -1,0 +1,10 @@
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\ContactsApp.pdb
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\Resources\add_icon.png
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\Resources\edit_icon.png
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\Resources\remove_icon.png
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\PenImc_cor3.dll
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\PresentationNative_cor3.dll
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\vcruntime140_cor3.dll
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\wpfgfx_cor3.dll
+E:\my_code\c#\318992\ContactsApp\bin\Release\net8.0-windows\win-x64\publish\ContactsApp.exe
